@@ -4,20 +4,20 @@ The EYFS Steps Assessment Entry tool allows EYFS assessments to be entered from 
 
 To begin, select a year group (or year groups) or class (or classes) from the Pupil Selection screen.
 
-Then choose the EYFS menu in the Home tab.
+Then choose the *EYFS* menu in the *Home* tab.
 
 ![](homeeyfs.png)
 
-Choose Steps and you will see the options Single Subject or All Subjects. Single Subject allows you to choose a subject to view or enter assessments for all pupils. All Subjects allows you to choose a pupil to view or enter assessments for all subjects.
+Choose *Steps* and you will see the options *Single Subject* or *All Subjects*. *Single Subject* allows you to choose a subject to view or enter assessments for all pupils. All Subjects allows you to choose a pupil to view or enter assessments for all subjects.
 Both work in much the same way but have different applications. 
 
 
 
-The Single Subject view is likely to be the most useful for day to day assessment entry and the All Subjects view is useful for pupil progress meetings or when your focus is on a single pupil over the whole curriculum. We will focus on the Single Subject view here.
+The *Single Subject* view is likely to be the most useful for day to day assessment entry and the All Subjects view is useful for pupil progress meetings or when your focus is on a single pupil over the whole curriculum. We will focus on the Single Subject view here.
 
 
 
-Choose the Subject button.
+Choose the *Subject* button.
 
 
 
