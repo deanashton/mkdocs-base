@@ -78,11 +78,5 @@ If your year group selection is Reception and the current term is Spring or Summ
 
 These work in the same way as the Step assessments via a double click (or tap). It is also possible to double click the column header to enter an assessment for multiple pupils. The Unable to Assess assessment is chiefly to allow you to state that a pupil has recently joined and it has not been possible to assess. This applies to all Aspects, not just the one you double click for.
 
-
 To aid these assessments you can click the `Show ELG Exemplification` button. This will open a viewer in which exemplars for Expected and text descriptors for Exceeding may be viewed.
 
-See also
-
-EYFS EYO (DM) Assessment Entry
-EYFSP 2008
-Reception Baseline
