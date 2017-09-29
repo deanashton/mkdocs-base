@@ -4,7 +4,8 @@ Your subscription type (EYFS, Primary or both) will affect what you can do with 
 
 If you wish to work with the whole school use the All tile on the left. Similarly the other tiles on the left allow you to choose multiple year groups, or clear the selection, quickly.
 
-Note: Working with the whole school may be slower than working with a few classes. This will depend on the size of the school and the speed of the computer you are using.
+!!! note
+    Working with the whole school may be slower than working with a few classes. This will depend on the size of the school and the speed of the computer you are using.
 
 The Tracking Grid, in particular, will take longer to display.
 

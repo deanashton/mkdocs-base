@@ -4,9 +4,9 @@ markdown_extensions:
   - admonition
 pages: 
   - Getting Started:
-    - System Requirements: 'system-requirements.md'
-    - Installing the software: 'installation.md'
-    - Pupil Selection: 'pupil-selection.md'
+    - System Requirements: 'getting-started/system-requirements.md'
+    - Installing the software: 'getting-started/installation.md'
+    - Pupil Selection: 'getting-started/pupil-selection.md'
   - Assessment:
     - EYFS:
       - EYFS Steps Assessment Entry: 'assessment/eyfs/eyfs-steps-assessment-entry.md'
