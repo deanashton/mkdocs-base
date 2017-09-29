@@ -3,6 +3,7 @@ theme_dir: 'material'
 markdown_extensions:
   - admonition
 pages: 
+  - Welcome: 'welcome.md'
   - Getting Started:
     - System Requirements: 'getting-started/system-requirements.md'
     - Installing the software: 'getting-started/installation.md'
