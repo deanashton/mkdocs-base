@@ -2,15 +2,15 @@ site_name: Target Tracker Help
 theme_dir: 'material'
 pages: 
   - Getting Started:
-    - System Requirements: index.md
-    - Installing the software: index.md
-    - Pupil Selection: index.md
+    - System Requirements: 'index.md'
+    - Installing the software: 'index.md'
+    - Pupil Selection: 'index.md'
     - Assessment:
       - EYFS:
-        - EYFS Steps Assessment Entry: index.md
-        - EYFS EYO (DM) Assessment Entry: index.md
-        - EYFSP 2008: index.md
+        - EYFS Steps Assessment Entry: 'index.md'
+        - EYFS EYO (DM) Assessment Entry: 'index.md'
+        - EYFSP 2008: 'index.md'
       - Steps (NC 2014):
-        - Assessing Without Levels: index.md
-        - End of Key Stage Tools: index.md
-        - Statements Assessment Entry: index.md
+        - Assessing Without Levels: 'index.md'
+        - End of Key Stage Tools: 'index.md'
+        - Statements Assessment Entry: 'index.md'
