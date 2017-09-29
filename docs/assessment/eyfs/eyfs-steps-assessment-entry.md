@@ -8,7 +8,7 @@ Then choose the `EYFS` menu in the `Home` tab.
 
 ![](home.png)
 
-Choose `Steps` and you will see the options `Single Subject` or `All Subjects`. `Single Subject` allows you to choose a subject to view or enter assessments for all pupils. All Subjects allows you to choose a pupil to view or enter assessments for all subjects.
+Choose `Steps` and you will see the options `Single Subject` or `All Subjects`. Single Subject allows you to choose a subject to view or enter assessments for all pupils. All Subjects allows you to choose a pupil to view or enter assessments for all subjects.
 Both work in much the same way but have different applications. 
 
 ![](homeeyfs.png)
@@ -26,15 +26,14 @@ You can enter/view assessments for either. Assessments entered for an AoL will a
 
 ![](eyfsassessmententry.png)
 
-If you would rather work with a saved group, specific pupil or pupils then the Pupils menu gives a quick way to do this. The Previous and Next Pupil buttons allow you to move through pupil by pupil
+If you would rather work with a saved group, specific pupil or pupils then the `Pupils` menu gives a quick way to do this. The `Previous Pupil` and `Next Pupil` buttons allow you to move through pupil by pupil
 
 The Pupil selection screen shows all the pupil names in alphabetical order by forename. If the pupils do not all fit you can use the small arrows (in the middle on the left and right of the screen), a mouse wheel or keyboard arrow keys to scroll. You can use your fingers to swipe left and right on a tablet PC. The search box at the top of the screen allows you to type the first few letters of the pupil name to quickly find them.
 
-You may want to show the assessments associated with each band beneath the Steps. Click Show Statements to do this. Statements may be assessed in this view but it may be easier to do this in the Statements assessment screen.
+You may want to show the assessments associated with each band beneath the Steps. Click `Show Statements` to do this. Statements may be assessed in this view but it may be easier to do this in the Statements assessment screen.
 
 !!! note
     When entering assessments in the All Subjects view you will see all of the Areas of Learning, in bold, and their associated Aspects beneath. The Hide AoLs button temporarily removes the Area of Learning rows. This can be useful if you are entering assessments from paper notes in Aspect order.
-
 
 
 ## Beginning, Working Within and Secure
@@ -47,15 +46,14 @@ After the 40-60 band there are 3 additional steps to indicate pupils working bey
 
 ## Entering Assessments
 
-
 To enter a Step assessment simply find the cell for the pupil and Step and double click (or double tap on a tablet pc). This will enter an assessment for the pupil and automatically attribute a half term to it based on today's date (this is taken from your PC so ensure the date and time are correct).
 
-If you want to save time by entering the same assessment for multiple pupils double click (tap) on the appropriate column header. A confirmation message will appear which allows you to quickly enter several assessments for pupils at the same level. Individual pupil assessments may then be 'fine tuned' by clicking the appropriate cell on an individual pupil row.
+If you want to save time by entering the same assessment for multiple pupils double click (or double tap) on the appropriate column header. A confirmation message will appear which allows you to quickly enter several assessments for pupils at the same level. Individual pupil assessments may then be 'fine tuned' by clicking the appropriate cell on an individual pupil row.
 
 !!! tip
     If you have ability groups saved you could work with each saved group in turn and quickly enter assessments.
 
-It is possible that you are entering assessments for a previous half term. The Assessment Term button allows you to choose to assess in the current or previous half term (unless the previous half term is in the previous academic year). Once you choose the previous half term any assessments entered via a double click will be recorded against the previous half term until you change the selection or exit.
+It is possible that you are entering assessments for a previous half term. The `Assessment Term` button allows you to choose to assess in the current or previous half term (unless the previous half term is in the previous academic year). Once you choose the previous half term any assessments entered via a double click will be recorded against the previous half term until you change the selection or exit.
 
 If you want to enter assessments for a half term prior to the previous half term then right clicking (or holding your finger) on the appropriate cell displays an additional menu. If your user permission level permits it you can use this menu to select from any previous half term.
 
