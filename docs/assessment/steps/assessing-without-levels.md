@@ -51,36 +51,11 @@ Each year band has been broken down into six steps:
 The three broader sections may be thought of in these terms:
 
 
-### Definition lists
+**Beginning** pupil learning is chiefly focussed on the criteria for the band. There may be minimal elements of the previous band still to gain complete confidence in
 
-Lorem ipsum dolor sit amet
+**Working Within** pupil learning is fully focussed on the criteria for the band. This is a teacher best fit decision but could be informed by statement assessments between around 40% and 70% achieved.
 
-:   Sed sagittis eleifend rutrum. Donec vitae suscipit est. Nullam tempus
-    tellus non sem sollicitudin, quis rutrum leo facilisis. Nulla tempor
-    lobortis orci, at elementum urna sodales vitae. In in vehicula nulla.
-
-    Duis mollis est eget nibh volutpat, fermentum aliquet dui mollis.
-    Nam vulputate tincidunt fringilla.
-    Nullam dignissim ultrices urna non auctor.
-
-Cras arcu libero
-
-:   Aliquam metus eros, pretium sed nulla venenatis, faucibus auctor ex. Proin
-    ut eros sed sapien ullamcorper consequat. Nunc ligula ante, fringilla at
-    aliquam ac, aliquet sed mauris.
-
-
-Beginning
-
-:   Pupil learning is chiefly focussed on the criteria for the band. There may be minimal elements of the previous band still to gain complete confidence in
-
-Working Within
-
-:   Pupil learning is fully focussed on the criteria for the band. This is a teacher best fit decision but could be informed by statement assessments between around 40% and 70% achieved.
-
-Secure 
-
-:  Confidence in all of the criteria for the band. There may be pupil learning still focussed on gaining thorough confidence in some minimal elements but the broad expectations for the band have been met
+**Secure** confidence in all of the criteria for the band. There may be pupil learning still focussed on gaining thorough confidence in some minimal elements but the broad expectations for the band have been met
 
 Where the sections have been broken down into steps this is designed to allow the practitioner to represent and report progress for a pupil where they may not feel that the best fit is within the next section. For example, a pupil may be assessed as Band 2 Beginning in the Autumn term in year 2. The next time the practitioner records a summative assessment they may not feel that the pupil has progressed to Working Within, but the pupil has made progress. An assessment of Beginning + allows that progress to be represented and will feed through to overall class and key stage reporting. The inability to record smaller progress measures was a frustrating issue with the outgoing levels (and points) system.
 
