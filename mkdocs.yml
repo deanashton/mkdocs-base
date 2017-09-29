@@ -2,7 +2,7 @@ site_name: Target Tracker Help
 theme_dir: 'material'
 pages: 
   - Getting Started:
-    - System Requirements: 'index.md'
+    - System Requirements: 'system-requirements.md'
     - Installing the software: 'index.md'
     - Pupil Selection: 'index.md'
     - Assessment:
