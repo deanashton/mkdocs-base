@@ -1,6 +1,6 @@
 site_name: Target Tracker Help
 theme_dir: 'material'
-mkdown_extensions:
+markdown_extensions:
   - admonition
 pages: 
   - Getting Started:
