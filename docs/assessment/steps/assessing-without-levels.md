@@ -1,8 +1,8 @@
 ### Approach to Assessment and Progress Tracking in the New Curriculum
 
-In April 2014 the Department for Education released 'Assessment Principles', a document outlining the core values all effective assessment systems should implement as part of the changes introduced with the 2014 National Curriculum. As the ‘Government will not impose a single system for ongoing assessment’, it is up to schools to implement a system that can: ‘Give reliable information to parents about how their child, and their child’s school, is performing, help drive improvement for pupils and teachers and make sure the school is keeping up with external best practice and innovation.’
+In April 2014 the Department for Education released '*Assessment Principles*', a document outlining the core values all effective assessment systems should implement as part of the changes introduced with the 2014 National Curriculum. As the ‘*Government will not impose a single system for ongoing assessment*’, it is up to schools to implement a system that can: ‘*Give reliable information to parents about how their child, and their child’s school, is performing, help drive improvement for pupils and teachers and make sure the school is keeping up with external best practice and innovation.*’
 
-We have been developing an effective assessment system that will meet the needs of all school stakeholders and support the school in embedding the DfE ‘Assessment Principles’ referenced above.
+We have been developing an effective assessment system that will meet the needs of all school stakeholders and support the school in embedding the DfE ‘*Assessment Principles*’ referenced above.
 
 This has been developed to ensure that the useful elements of the outgoing levels system are retained, ensuring data from school to pupil level is presented and recorded with clarity and consistency, while removing the more confusing elements and opportunities for bad practice, for example the inconsistent APS system.
 It also seeks to embrace the more forward thinking facets of assessment in the new curriculum, in particular a mastery model with a focus on embedding rather than pace.
