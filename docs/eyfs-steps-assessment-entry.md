@@ -4,7 +4,7 @@ The EYFS Steps Assessment Entry tool allows EYFS assessments to be entered from 
 
 To begin, select a year group (or year groups) or class (or classes) from the Pupil Selection screen.
 
-Then choose the *EYFS* menu in the *Home* tab.
+Then choose the `EYFS` menu in the `Home` tab.
 
 ![](homeeyfs.png)
 
