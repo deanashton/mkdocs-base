@@ -53,7 +53,8 @@ To enter a Step assessment simply find the cell for the pupil and Step and doubl
 
 If you want to save time by entering the same assessment for multiple pupils double click (tap) on the appropriate column header. A confirmation message will appear which allows you to quickly enter several assessments for pupils at the same level. Individual pupil assessments may then be 'fine tuned' by clicking the appropriate cell on an individual pupil row.
 
-Hint: If you have ability groups saved you could work with each saved group in turn and quickly enter assessments.
+!!! tip
+    If you have ability groups saved you could work with each saved group in turn and quickly enter assessments.
 
 It is possible that you are entering assessments for a previous half term. The Assessment Term button allows you to choose to assess in the current or previous half term (unless the previous half term is in the previous academic year). Once you choose the previous half term any assessments entered via a double click will be recorded against the previous half term until you change the selection or exit.
 
@@ -72,7 +73,8 @@ If a pupil assessment is lower than one entered in a previous half term left fac
 In the Summer term of the Reception year you need to enter the final assessments to submit to the Local Authority.
 If your year group selection is Reception and the current term is Spring or Summer the final Reception assessments will automatically be shown.
 
-Note: As the end of Reception assessments are by Aspect, they are not shown if you choose to show an Area of Learning from the Subject selection
+!!! note
+   As the end of Reception assessments are by Aspect, they are not shown if you choose to show an Area of Learning from the Subject selection
 
 These work in the same way as the Step assessments via a double click (or tap). It is also possible to double click the column header to enter an assessment for multiple pupils. The Unable to Assess assessment is chiefly to allow you to state that a pupil has recently joined and it has not been possible to assess. This applies to all Aspects, not just the one you double click for.
 
