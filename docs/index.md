@@ -1,7 +1,3 @@
-![](logo.large.png)
-
-## Welcome
-
 Welcome to the Target Tracker online help system. 
 
 Browse through the help pages by selecting pages in the table of contents to the left.
@@ -9,6 +5,8 @@ Browse through the help pages by selecting pages in the table of contents to the
 Check you have the latest version of Target Tracker on the [EES for schools website](http://www.eesforschools.org/targettracker)
 
 To quickly find specific product information, enter search criteria in the search box above and click the search button. 
+
+![](logo.large.png)
 
 ## About the software
 
