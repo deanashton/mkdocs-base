@@ -6,26 +6,25 @@ To begin, select a year group (or year groups) or class (or classes) from the Pu
 
 Then choose the `EYFS` menu in the `Home` tab.
 
-![](homeeyfs.png)
+![](home.png)
 
 Choose `Steps` and you will see the options `Single Subject` or `All Subjects`. `Single Subject` allows you to choose a subject to view or enter assessments for all pupils. All Subjects allows you to choose a pupil to view or enter assessments for all subjects.
 Both work in much the same way but have different applications. 
 
-
+![](homeeyfs.png)
 
 The `Single Subject` view is likely to be the most useful for day to day assessment entry and the All Subjects view is useful for pupil progress meetings or when your focus is on a single pupil over the whole curriculum. We will focus on the Single Subject view here.
 
-
+![](eyfsassess.png)
 
 Choose the `Subject` button.
 
-
+![](eyfssubjectselection.png)
 
 The Subject selection shows the Areas of Learning (AoLs) on the top row and the individual Aspects beneath.
 You can enter/view assessments for either. Assessments entered for an AoL will apply to all the associated Aspects. Assessments entered for Aspects will be used as an average for the AoL.
 
-
-
+![](eyfsassessmententry.png)
 
 If you would rather work with a saved group, specific pupil or pupils then the Pupils menu gives a quick way to do this. The Previous and Next Pupil buttons allow you to move through pupil by pupil
 
@@ -60,13 +59,14 @@ It is possible that you are entering assessments for a previous half term. The A
 
 If you want to enter assessments for a half term prior to the previous half term then right clicking (or holding your finger) on the appropriate cell displays an additional menu. If your user permission level permits it you can use this menu to select from any previous half term.
 
-
+![](eyfsquickhelp.png)
 
 This menu also allows you to delete any assessment entered in error.
 The cell colour represents the year the assessments are entered. From Year 1 to Pre School 0 (year of birth).
 
 If a pupil assessment is lower than one entered in a previous half term left facing arrows indicate the number of Steps regressed. When the pupil progresses right facing arrows show that progression up to the original higher assessment.
 
+![](eyfsyearcolourkey.png)
 
 ## End of Reception outcomes - Emerging, Expected, Exceeding
 
@@ -78,5 +78,6 @@ If your year group selection is Reception and the current term is Spring or Summ
 
 These work in the same way as the Step assessments via a double click (or tap). It is also possible to double click the column header to enter an assessment for multiple pupils. The Unable to Assess assessment is chiefly to allow you to state that a pupil has recently joined and it has not been possible to assess. This applies to all Aspects, not just the one you double click for.
 
-To aid these assessments you can click the `Show ELG Exemplification` button. This will open a viewer in which exemplars for Expected and text descriptors for Exceeding may be viewed.
+![](eyfsendrecassessment.png)
 
+To aid these assessments you can click the `Show ELG Exemplification` button. This will open a viewer in which exemplars for Expected and text descriptors for Exceeding may be viewed.
