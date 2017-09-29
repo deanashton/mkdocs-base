@@ -7,6 +7,6 @@ If you wish to work with the whole school use the All tile on the left. Similarl
 !!! note
     Working with the whole school may be slower than working with a few classes. This will depend on the size of the school and the speed of the computer you are using.
 
-The Tracking Grid, in particular, will take longer to display.
+    The Tracking Grid, in particular, will take longer to display.
 
 ![](pupil-selection.png)
