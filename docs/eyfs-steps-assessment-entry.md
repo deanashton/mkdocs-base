@@ -8,16 +8,16 @@ Then choose the *EYFS* menu in the *Home* tab.
 
 ![](homeeyfs.png)
 
-Choose *Steps* and you will see the options *Single Subject* or *All Subjects*. *Single Subject* allows you to choose a subject to view or enter assessments for all pupils. All Subjects allows you to choose a pupil to view or enter assessments for all subjects.
+Choose `Steps` and you will see the options `Single Subject` or `All Subjects`. `Single Subject` allows you to choose a subject to view or enter assessments for all pupils. All Subjects allows you to choose a pupil to view or enter assessments for all subjects.
 Both work in much the same way but have different applications. 
 
 
 
-The *Single Subject* view is likely to be the most useful for day to day assessment entry and the All Subjects view is useful for pupil progress meetings or when your focus is on a single pupil over the whole curriculum. We will focus on the Single Subject view here.
+The `Single Subject` view is likely to be the most useful for day to day assessment entry and the All Subjects view is useful for pupil progress meetings or when your focus is on a single pupil over the whole curriculum. We will focus on the Single Subject view here.
 
 
 
-Choose the *Subject* button.
+Choose the `Subject` button.
 
 
 
@@ -74,7 +74,7 @@ In the Summer term of the Reception year you need to enter the final assessments
 If your year group selection is Reception and the current term is Spring or Summer the final Reception assessments will automatically be shown.
 
 !!! note
-   As the end of Reception assessments are by Aspect, they are not shown if you choose to show an Area of Learning from the Subject selection
+    As the end of Reception assessments are by Aspect, they are not shown if you choose to show an Area of Learning from the Subject selection
 
 These work in the same way as the Step assessments via a double click (or tap). It is also possible to double click the column header to enter an assessment for multiple pupils. The Unable to Assess assessment is chiefly to allow you to state that a pupil has recently joined and it has not been possible to assess. This applies to all Aspects, not just the one you double click for.
 
