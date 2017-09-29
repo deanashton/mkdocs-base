@@ -5,3 +5,6 @@ pages:
     - System Requirements: 'system-requirements.md'
     - Installing the software: 'installation.md'
     - Pupil Selection: 'pupil-selection.md'
+  - Assessment:
+    - EYFS:
+      - EYFS Steps Assessment Entry: 'eyfs-steps-assessment-entry.md'
