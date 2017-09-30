@@ -13,7 +13,7 @@ Both work in much the same way but have different applications.
 
 ![](homeeyfs.png)
 
-The `Single Subject` view is likely to be the most useful for day to day assessment entry and the All Subjects view is useful for pupil progress meetings or when your focus is on a single pupil over the whole curriculum. We will focus on the Single Subject view here.
+The Single Subject view is likely to be the most useful for day to day assessment entry and the All Subjects view is useful for pupil progress meetings or when your focus is on a single pupil over the whole curriculum. We will focus on the Single Subject view here.
 
 ![](eyfsassess.png)
 
