@@ -11,5 +11,9 @@ pages:
   - Assessment:
     - EYFS:
       - EYFS Steps Assessment Entry: 'assessment/eyfs/eyfs-steps-assessment-entry.md'
+    - Levels:
+      - Levels Assessment Entry tool: '1.md'
+      - Levels Tracking Grids Data Entry: '2.md'
+      - APP: '3.md'
     - Steps:
       - Assessing Without Levels: 'assessment/steps/assessing-without-levels.md'
